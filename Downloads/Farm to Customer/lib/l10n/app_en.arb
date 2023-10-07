@@ -1,0 +1,214 @@
+{
+    "hometext": "Farmers to Customers",
+         "@hometext": {
+           "description": "The conventional newborn programmer greeting"
+         },
+    "home": "Home",
+          "@home": {
+            "description": "The conventional newborn programmer greeting"
+             },
+    "farmer": "Farmer",
+            "@farmer": {
+            "description": "The conventional newborn programmer greeting"
+             },
+    "customer": "Customer",
+         "@customer": {
+           "description": "The conventional newborn programmer greeting"
+         },
+    "profile": "Your Profile",
+         "@profile": {
+           "description": "The conventional newborn programmer greeting"
+         },
+    "aboutus": "About Us",
+             "@aboutus": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "vegetables": "Vegetables",
+             "@vegetables": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "fruits": "Fruits",
+             "@fruits": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "rice": "Rice",
+             "@rice": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "pulses": "Pulses",
+             "@pulses": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "sellerszone": "Sellers Zone",
+             "@sellerszone": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "buyerszone": "Buyers Zone",
+             "@buyerszone": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "name": "Name",
+              "@name": {
+                 "description": "The conventional newborn programmer greeting"
+             },
+    "mobilenumber": "Mobile Number",
+             "@mobilenumber": {
+               "description": "The conventional newborn programmer greeting"
+             } ,
+    "address": "Address",
+                 "@address": {
+                   "description": "The conventional newborn programmer greeting"
+                 } ,
+    "aadhaar": "Aadhaar Number",
+                 "@aadhaar": {
+                   "description": "The conventional newborn programmer greeting"
+                 },
+    "passbook": "Pattadhar Passbook Number",
+                 "@passbook": {
+                   "description": "The conventional newborn programmer greeting"
+                 } ,
+    "items": "Items",
+                 "@items": {
+                   "description": "The conventional newborn programmer greeting"
+                 },
+    "email": "Email",
+                     "@email": {
+                       "description": "The conventional newborn programmer greeting"
+                     },
+    "password": "Password",
+                     "@password": {
+                       "description": "The conventional newborn programmer greeting"
+                     },
+    "createpassword": "Create Password",
+                         "@createpassword": {
+                           "description": "The conventional newborn programmer greeting"
+                         },
+    "confirmpassword": "Confirm Password",
+                         "@confirmpassword": {
+                           "description": "The conventional newborn programmer greeting"
+                         },
+    "login": "Login",
+             "@login": {
+               "description": "The conventional newborn programmer greeting"
+             },
+    "createaccountuser": "Create an account for user",
+                         "@createaccountuser": {
+                           "description": "The conventional newborn programmer greeting"
+                         },
+    "createaccount": "Create an account",
+                             "@createaccount": {
+                               "description": "The conventional newborn programmer greeting"
+                             },
+    "haveaccount": "Have an account? Login",
+                             "@haveaccount": {
+                               "description": "The conventional newborn programmer greeting"
+                             },
+    "homepage": "Home Page",
+                         "@homepage": {
+                           "description": "The conventional newborn programmer greeting"
+                         },
+    "hometext1": "Hello, Folks!!! Locate Farm is an e-commerce app, a solution for farmers to sell their goods directly to customers or people living nearby the locality through our app without any comission agents being involved.",
+                             "@homepage": {
+                               "description": "The conventional newborn programmer greeting"
+                             },
+    "website": "Today's Market Prices",
+                          "@website": {
+                            "description": "The conventional newborn programmer greeting"
+                          },
+    "directions": "Directions To Use",
+                              "@directions": {
+                                "description": "The conventional newborn programmer greeting"
+                              },
+    "instructions": "Instructions To Sellers",
+                                  "@instructions": {
+                                    "description": "The conventional newborn programmer greeting"
+                                  },
+    "instructionshead": "Farmers head Left to sellers section in the bottom navigation",
+                                      "@instructionshead": {
+                                        "description": "The conventional newborn programmer greeting"
+                                      },
+    "instructionshead1": "Select the category of the produce you want to sell",
+                                          "@instructionshead1": {
+                                            "description": "The conventional newborn programmer greeting"
+                                          },
+    "instructionshead2": "Fill in the form with your Aadhar and Pattadaar Passbook number along with the items you want to sell",
+                                          "@instructionshead2": {
+                                            "description": "The conventional newborn programmer greeting"
+                                          },
+    "instructionshead3": "Done, You just have to wait for your orders.",
+                                          "@instructionshead3": {
+                                            "description": "The conventional newborn programmer greeting"
+                                          },
+    "instructionsb": "Instructions to Buyers",
+                                              "@instructionsb": {
+                                                "description": "The conventional newborn programmer greeting"
+                                              },
+    "instructionsheadb": "Customers head Right to buyers section in the bottom navigation",
+                                                  "@instructionsb": {
+                                                    "description": "The conventional newborn programmer greeting"
+                                                  },
+    "instructionsheadb1": " Select the category of the produce you want to buy",
+                                                  "@instructionsb1": {
+                                                    "description": "The conventional newborn programmer greeting"
+                                                  },
+    "instructionsheadb2": " You will find a list of farmers registered in that category",
+                                                  "@instructionsb2": {
+                                                    "description": "The conventional newborn programmer greeting"
+                                                  },
+    "instructionsheadb3": " You are provided with a call icon to talk and negotiote with the farmer of your choice.",
+                                                  "@instructionsnb3": {
+                                                    "description": "The conventional newborn programmer greeting"
+                                                  },
+    "moreinf": "For more information and queries, head on to the about us page",
+                                                  "@moreinf": {
+                                                    "description": "The conventional newborn programmer greeting"
+                                                  },
+    "aboutusp1": "Locate Farm is an e-commerce app where we or our team consisting of three members N.Srujan Reddy, D.Sumanth Reddy and K.Sri Chaitanya currently completing their graduation from IARE(Institute of Aeronautical Engineering) are presenting a solution farmers to sell their products directly to customers or people living near by the locality through our App.",
+                                         "@aboutusp1": {
+                                           "description": "The conventional newborn programmer greeting"
+                                         },
+    "aboutusp2": "Through this app we are creating a bridge between the farmers and the customers and eliminating the Brokarage  in between them. This app is built by using the flutter an open source framework which is used as the front-end software. We used the database called firebase which is also an open-source database which is used to store and authenticate the data which we are collecting from our customers.",
+                                             "@aboutusp2": {
+                                               "description": "The conventional newborn programmer greeting"
+                                             },
+    "aboutusp3": "We take some personal data from the customers who want to register as farmers like Adhaar card and pattadar passbook details which are strictly used for verification and authenticaction of the customer that he/she is genuinely a farmer.For the customers who want to buy the products from our App are requested to provide their email and phone no. to create their account.",
+                                             "@aboutusp3": {
+                                               "description": "The conventional newborn programmer greeting"
+                                             },
+    "image": "Images",
+                                             "@image": {
+                                               "description": "The conventional newborn programmer greeting"
+                                             },
+    "followus": "Follow Us",
+                                             "@followus": {
+                                               "description": "The conventional newborn programmer greeting"
+                                             },
+    "uid": "User ID",
+                                                 "@uid": {
+                                                   "description": "The conventional newborn programmer greeting"
+                                                 },
+    "profiledetails": "Profile details",
+                                                 "@profiledetails": {
+                                                   "description": "The conventional newborn programmer greeting"
+                                                 },
+    "logout": "Logout",
+                                                 "@logout": {
+                                                   "description": "The conventional newborn programmer greeting"
+                                                 },
+    "submit": "Submit",
+                                         "@submit": {
+                                           "description": "The conventional newborn programmer greeting"
+                                         },
+    "farmerdetails": "Farmer details",
+                                         "@farmerdetails": {
+                                           "description": "The conventional newborn programmer greeting"
+                                         },
+    "fillurdetails": "Fill your details",
+                                         "@fillurdetails": {
+                                           "description": "The conventional newborn programmer greeting"
+                                         },
+    "farmernotavailable": "No Farmer available",
+                                             "@farmernotavailable": {
+                                               "description": "The conventional newborn programmer greeting"
+                                             }
+}
