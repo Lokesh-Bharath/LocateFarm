@@ -1,16 +1,7 @@
-# flutter_appproj1
+# LocateFarm App
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A cross platform app which lets gated communities place orders from the nearest farmers and helps farmers look list their
+crops, accept orders
+- Made the app available in 3 local languages like Telugu and Hindi for it to be easy to use for farmers
+- Integrated Daily Market prices websites and implemented features like direct calling for farmers in the app
+- Tech Stack - Android Studio, Flutter, Firebase, Dart, Object Oriented Programming Structure(OOPs)
